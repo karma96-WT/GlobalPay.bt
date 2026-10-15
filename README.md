@@ -1,5 +1,7 @@
 # GlobalPay.bt
 
+# https://global-pay-bt-prototype.vercel.app/
+
 **A unified digital payment integration platform for Bhutan.**
 
 GlobalPay.bt is a project aimed at making digital payments more convenient by providing a single platform through which users and businesses can access payment options from different banks and supported payment services in Bhutan.
